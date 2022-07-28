@@ -27,4 +27,4 @@ app.all("*",(err,req,res,next)=>{
     }
 })
 
-app.listen(80,console.log("listening 80.."));
+app.listen(3000,console.log("listening 3000.."));
